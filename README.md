@@ -22,5 +22,23 @@ $git checkout master
 #移動できているか確認する
 $git branch
 
+#新しいブランチを作成する
+$git branch b1
+
+#b1ブランチに移動する
+$git checkout b1
+
+##ブランチの新規作成と移動を同時に行うには以下のように-bオプションを付ける
+$git checkout -b b1
+
+
+#修正を行いコミットする
+$git add *****
+
+#一度にすべてaddする場合
+$git add .
+
+#修正したファイルのみaddする場合(新規ファイルは含まれない)
+$git add -u
 
 ```
