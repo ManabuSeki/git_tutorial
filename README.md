@@ -64,5 +64,7 @@ $git commit -am 'ここにコメントを入れる'
 
 ```
 画像追加
+imagesフォルダの中のファイルを表示させる
+![title](images/sample.jpg)
 ```
 ![title](images/sample.jpg)
