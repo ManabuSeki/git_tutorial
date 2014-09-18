@@ -68,5 +68,3 @@ imagesフォルダの中のファイルを表示させる
 ![title](images/sample.jpg)
 ```
 ![title](images/sample.jpg)
-
-test
