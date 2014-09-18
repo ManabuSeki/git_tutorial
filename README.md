@@ -33,9 +33,9 @@ $git checkout b1
 ##ブランチの新規作成と移動を同時に行うには以下のように-bオプションを付ける
 $git checkout -b b1
 ```
-修正  
-修正  
-修正  
+修正
+修正
+修正
 
 2. ローカルのb1ブランチに修正をコミットする
 ```
@@ -68,3 +68,5 @@ imagesフォルダの中のファイルを表示させる
 ![title](images/sample.jpg)
 ```
 ![title](images/sample.jpg)
+
+test
